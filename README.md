@@ -39,3 +39,5 @@ Desirable debug it locally before push to remote repository.
 [Setup Fastlane](https://docs.fastlane.tools/getting-started/android/setup/)
 
 [Debug your pipelines locally with Docker](https://confluence.atlassian.com/bitbucket/debug-your-pipelines-locally-with-docker-838273569.html)
+
+jQrgen was here
